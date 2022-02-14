@@ -1,4 +1,3 @@
-//searching
 //toUpperCase()
 //toLowerCase()
 const anthem = "amar Sonar Bangla Ami Tomai Valobashi";
